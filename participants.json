@@ -1,0 +1,82 @@
+[
+    {
+        "id": 9,
+        "matchid": 10,
+        "player": 1,
+        "championid": 19,
+        "role": "NONE",
+        "position": "JUNGLE"
+    },
+    {
+        "id": 10,
+        "matchid": 10,
+        "player": 2,
+        "championid": 267,
+        "role": "DUO_SUPPORT",
+        "position": "BOT"
+    },
+    {
+        "id": 11,
+        "matchid": 10,
+        "player": 3,
+        "championid": 119,
+        "role": "DUO_CARRY",
+        "position": "BOT"
+    },
+    {
+        "id": 12,
+        "matchid": 10,
+        "player": 4,
+        "championid": 114,
+        "role": "SOLO",
+        "position": "TOP"
+    },
+    {
+        "id": 13,
+        "matchid": 10,
+        "player": 5,
+        "championid": 112,
+        "role": "SOLO",
+        "position": "MID"
+    },
+    {
+        "id": 14,
+        "matchid": 10,
+        "player": 6,
+        "championid": 72,
+        "role": "NONE",
+        "position": "JUNGLE"
+    },
+    {
+        "id": 15,
+        "matchid": 10,
+        "player": 7,
+        "championid": 3,
+        "role": "SOLO",
+        "position": "TOP"
+    },
+    {
+        "id": 16,
+        "matchid": 10,
+        "player": 8,
+        "championid": 103,
+        "role": "SOLO",
+        "position": "MID"
+    },
+    {
+        "id": 17,
+        "matchid": 10,
+        "player": 9,
+        "championid": 222,
+        "role": "DUO_CARRY",
+        "position": "BOT"
+    },
+    {
+        "id": 18,
+        "matchid": 10,
+        "player": 10,
+        "championid": 161,
+        "role": "DUO_SUPPORT",
+        "position": "BOT"
+    }
+]

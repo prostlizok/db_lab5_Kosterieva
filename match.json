@@ -1,0 +1,62 @@
+[
+    {
+        "id": 10,
+        "duration": 1909,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 11,
+        "duration": 1693,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 12,
+        "duration": 1482,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 13,
+        "duration": 1954,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 14,
+        "duration": 2067,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 15,
+        "duration": 1593,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 16,
+        "duration": 1589,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 17,
+        "duration": 1664,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 18,
+        "duration": 1875,
+        "platformid": "EUW1",
+        "seasonid": 8
+    },
+    {
+        "id": 19,
+        "duration": 1541,
+        "platformid": "EUW1",
+        "seasonid": 8
+    }
+]

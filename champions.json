@@ -1,0 +1,42 @@
+[
+    {
+        "championid": 24,
+        "champion_name": "Jax"
+    },
+    {
+        "championid": 37,
+        "champion_name": "Sona"
+    },
+    {
+        "championid": 18,
+        "champion_name": "Tristana"
+    },
+    {
+        "championid": 110,
+        "champion_name": "Varus"
+    },
+    {
+        "championid": 114,
+        "champion_name": "Fiora"
+    },
+    {
+        "championid": 27,
+        "champion_name": "Singed"
+    },
+    {
+        "championid": 223,
+        "champion_name": "Tahm Kench"
+    },
+    {
+        "championid": 7,
+        "champion_name": "LeBlanc"
+    },
+    {
+        "championid": 412,
+        "champion_name": "Thresh"
+    },
+    {
+        "championid": 43,
+        "champion_name": "Karma"
+    }
+]
